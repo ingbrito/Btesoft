@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GRUDENTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Consulta">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdDoctor" Type="Int32" />
+    <Property Name="IdPaciente" Type="Int32" />
+    <Property Name="NombrePaciente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Edad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="NombreDoctor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Motivo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Diagnostico" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Procedimiento" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Observaciones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Indicaciones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Paciente">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+    <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Observacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="PacienteN">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="SegundoApellido" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+    <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="TutorNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TutorTelefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="TutorCedula" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="GRUDENTEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Consulta" EntityType="Self.Consulta" />
+    <EntitySet Name="Paciente" EntityType="Self.Paciente" />
+    <EntitySet Name="PacienteN" EntityType="Self.PacienteN" />
+    <EntitySet Name="Procesos" EntityType="GRUDENTModel.Procesos" />
+  </EntityContainer>
+  <EntityType Name="Procesos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="IdPaciente" Type="Int32" />
+    <Property Name="IdDoctor" Type="Int32" />
+    <Property Name="IdProceso" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="Proceso" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Costo" Type="Double" />
+    <Property Name="Pago" Type="Double" />
+    <Property Name="Pendiente" Type="Double" />
+    <Property Name="NombrePaciente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="NombreDoctor" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Estatus" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

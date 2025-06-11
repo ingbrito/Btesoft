@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GRUDENTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Consulta">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdDoctor" Type="int" />
+    <Property Name="IdPaciente" Type="int" />
+    <Property Name="NombrePaciente" Type="varchar" MaxLength="100" />
+    <Property Name="Edad" Type="varchar" MaxLength="100" />
+    <Property Name="Sexo" Type="varchar" MaxLength="100" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="NombreDoctor" Type="varchar" MaxLength="100" />
+    <Property Name="Motivo" Type="varchar" MaxLength="100" />
+    <Property Name="Observaciones" Type="varchar" MaxLength="100" />
+    <Property Name="Diagnostico" Type="varchar" MaxLength="100" />
+    <Property Name="Procedimiento" Type="varchar" MaxLength="100" />
+    <Property Name="Indicaciones" Type="varchar" MaxLength="100" />
+    <Property Name="Foto" Type="image" />
+  </EntityType>
+  <EntityType Name="Diagnostico">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Doctores">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombres" Type="varchar" MaxLength="50" />
+    <Property Name="PrimerApellido" Type="varchar" MaxLength="50" />
+    <Property Name="SegundoApellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CorreoElectronico" Type="varchar" MaxLength="50" />
+    <Property Name="Especialidad" Type="varchar" MaxLength="50" />
+    <Property Name="Telefono" Type="varchar" MaxLength="50" />
+    <Property Name="Celular" Type="varchar" MaxLength="50" />
+    <Property Name="Direccion" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Facturas">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdCliente" Type="int" />
+    <Property Name="NombreCliente" Type="varchar" MaxLength="50" />
+    <Property Name="EdadCliente" Type="int" />
+    <Property Name="SexoCliente" Type="varchar" MaxLength="150" />
+    <Property Name="NombreDoctor" Type="varchar" MaxLength="150" />
+    <Property Name="EspecialidadDoctor" Type="varchar" MaxLength="150" />
+    <Property Name="Procesos" Type="varchar" MaxLength="150" />
+    <Property Name="Costo" Type="float" />
+    <Property Name="Descuento" Type="float" />
+    <Property Name="Pago" Type="float" />
+    <Property Name="Total" Type="float" />
+    <Property Name="Estatus" Type="varchar" MaxLength="50" />
+    <Property Name="Fecha" Type="datetime" />
+  </EntityType>
+  <EntityType Name="HistoricoPago">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdFactura" Type="int" />
+    <Property Name="Deuda" Type="float" />
+    <Property Name="Abono" Type="float" />
+    <Property Name="Resto" Type="float" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="Comentario" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Paciente">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Documento" Type="varchar" MaxLength="50" />
+    <Property Name="Nombres" Type="varchar" MaxLength="50" />
+    <Property Name="PrimerApellido" Type="varchar" MaxLength="50" />
+    <Property Name="SegundoApellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sexo" Type="varchar" MaxLength="50" />
+    <Property Name="FechaDeNacimiento" Type="datetime" />
+    <Property Name="EstadoCivil" Type="varchar" MaxLength="50" />
+    <Property Name="GrupoSanguineo" Type="varchar" MaxLength="50" />
+    <Property Name="ARS" Type="varchar" MaxLength="50" />
+    <Property Name="NSS" Type="varchar" MaxLength="50" />
+    <Property Name="CorreoElectronico" Type="varchar" MaxLength="50" />
+    <Property Name="Telefono" Type="varchar" MaxLength="50" />
+    <Property Name="Celular" Type="varchar" MaxLength="50" />
+    <Property Name="Direccion" Type="varchar" MaxLength="100" />
+    <Property Name="Foto" Type="image" />
+  </EntityType>
+  <EntityType Name="PacienteN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Documento" Type="varchar" MaxLength="50" />
+    <Property Name="Nombres" Type="varchar" MaxLength="50" />
+    <Property Name="PrimerApellido" Type="varchar" MaxLength="50" />
+    <Property Name="SegundoApellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sexo" Type="varchar" MaxLength="50" />
+    <Property Name="FechaDeNacimiento" Type="datetime" />
+    <Property Name="EstadoCivil" Type="varchar" MaxLength="50" />
+    <Property Name="GrupoSanguineo" Type="varchar" MaxLength="50" />
+    <Property Name="ARS" Type="varchar" MaxLength="50" />
+    <Property Name="NSS" Type="varchar" MaxLength="50" />
+    <Property Name="CorreoElectronico" Type="varchar" MaxLength="50" />
+    <Property Name="Telefono" Type="varchar" MaxLength="50" />
+    <Property Name="Celular" Type="varchar" MaxLength="50" />
+    <Property Name="Direccion" Type="varchar" MaxLength="100" />
+    <Property Name="Foto" Type="image" />
+    <Property Name="TutorNombre" Type="varchar" MaxLength="100" />
+    <Property Name="TutorTelefono" Type="varchar" MaxLength="15" />
+    <Property Name="TutorCedula" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Procedimientos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" />
+    <Property Name="Costo" Type="float" />
+  </EntityType>
+  <EntityType Name="Procesos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IdPaciente" Type="int" />
+    <Property Name="IdDoctor" Type="int" />
+    <Property Name="IdProceso" Type="int" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="Proceso" Type="varchar" MaxLength="500" />
+    <Property Name="Costo" Type="float" />
+    <Property Name="Pago" Type="float" />
+    <Property Name="Pendiente" Type="float" />
+    <Property Name="NombrePaciente" Type="varchar" MaxLength="150" />
+    <Property Name="NombreDoctor" Type="varchar" MaxLength="150" />
+    <Property Name="Estatus" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LoginName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Apellido" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Position" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="GRUDENTModelStoreContainer">
+    <EntitySet Name="Consulta" EntityType="Self.Consulta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Diagnostico" EntityType="Self.Diagnostico" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Doctores" EntityType="Self.Doctores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Facturas" EntityType="Self.Facturas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HistoricoPago" EntityType="Self.HistoricoPago" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Paciente" EntityType="Self.Paciente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PacienteN" EntityType="Self.PacienteN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Procedimientos" EntityType="Self.Procedimientos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Procesos" EntityType="Self.Procesos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

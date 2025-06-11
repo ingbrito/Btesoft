@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ec1a5c6ed05641808a6f3027139fca07" Name="Diagram1" ZoomLevel="95">
+        <EntityTypeShape EntityType="GRUDENTModel.Consulta" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.Diagnostico" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.Doctores" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.PacienteN" Width="1.5" PointX="4.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.Procedimientos" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.Procesos" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GRUDENTModel.Facturas" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="GRUDENTModel.HistoricoPago" Width="1.5" PointX="7.75" PointY="8.75" />
+        <EntityTypeShape EntityType="GRUDENTModel.Usuario" Width="1.5" PointX="9.75" PointY="0.75" />
+        <EntityTypeShape EntityType="GRUDENTModel.Paciente" Width="1.5" PointX="9.375" PointY="4.25" />
+        <EntityTypeShape EntityType="GRUDENTModel.Citas" Width="1.5" PointX="12" PointY="4.625" />
+        <EntityTypeShape EntityType="GRUDENTModel.Empresa" Width="1.5" PointX="10.75" PointY="9.75" />
+        <EntityTypeShape EntityType="GRUDENTModel.Cotizacion" Width="1.5" PointX="0.75" PointY="12.75" />
+        <AssociationConnector Association="GRUDENTModel.FK_Citas_Doctor" />
+        <AssociationConnector Association="GRUDENTModel.FK_Citas_Paciente" />
+        <EntityTypeShape EntityType="GRUDENTModel.Permisos" Width="1.5" PointX="14.375" PointY="7.625" />
+        <EntityTypeShape EntityType="GRUDENTModel.Roles" Width="1.5" PointX="18.875" PointY="6.25" />
+        <EntityTypeShape EntityType="GRUDENTModel.RolesPermisos" Width="1.5" PointX="14.625" PointY="1.75" />
+        <AssociationConnector Association="GRUDENTModel.FK_RolesPermisos_Permisos" />
+        <AssociationConnector Association="GRUDENTModel.FK_RolesPermisos_Roles" />
+        <AssociationConnector Association="GRUDENTModel.FK_Usuario_Roles" />
+        <AssociationConnector Association="GRUDENTModel.PermisosRol" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

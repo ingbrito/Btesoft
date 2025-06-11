@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="GRUDENTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Consulta">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IdDoctor" Type="int" />
+          <Property Name="IdPaciente" Type="int" />
+          <Property Name="NombrePaciente" Type="varchar" MaxLength="100" />
+          <Property Name="Edad" Type="varchar" MaxLength="100" />
+          <Property Name="Sexo" Type="varchar" MaxLength="100" />
+          <Property Name="Fecha" Type="datetime" />
+          <Property Name="NombreDoctor" Type="varchar" MaxLength="100" />
+          <Property Name="Motivo" Type="varchar" MaxLength="100" />
+          <Property Name="Observaciones" Type="varchar" MaxLength="100" />
+          <Property Name="Diagnostico" Type="varchar" MaxLength="100" />
+          <Property Name="Procedimiento" Type="varchar" MaxLength="100" />
+          <Property Name="Indicaciones" Type="varchar" MaxLength="100" />
+          <Property Name="Foto" Type="image" />
+        </EntityType>
+        <EntityType Name="Paciente">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Documento" Type="varchar" MaxLength="50" />
+          <Property Name="Nombres" Type="varchar" MaxLength="50" />
+          <Property Name="PrimerApellido" Type="varchar" MaxLength="50" />
+          <Property Name="SegundoApellido" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Sexo" Type="varchar" MaxLength="50" />
+          <Property Name="FechaDeNacimiento" Type="datetime" />
+          <Property Name="EstadoCivil" Type="varchar" MaxLength="50" />
+          <Property Name="GrupoSanguineo" Type="varchar" MaxLength="50" />
+          <Property Name="ARS" Type="varchar" MaxLength="50" />
+          <Property Name="NSS" Type="varchar" MaxLength="50" />
+          <Property Name="CorreoElectronico" Type="varchar" MaxLength="50" />
+          <Property Name="Observacion" Type="varchar" MaxLength="50" />
+          <Property Name="Telefono" Type="varchar" MaxLength="50" />
+          <Property Name="Celular" Type="varchar" MaxLength="50" />
+          <Property Name="Direccion" Type="varchar" MaxLength="100" />
+          <Property Name="Foto" Type="image" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'GRUDENT.dbo.PacienteN' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="PacienteN">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="SegundoApellido" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Documento" Type="varchar" MaxLength="50" />
+          <Property Name="Nombres" Type="varchar" MaxLength="50" />
+          <Property Name="PrimerApellido" Type="varchar" MaxLength="50" />
+          <Property Name="SegundoApellido" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Sexo" Type="varchar" MaxLength="50" />
+          <Property Name="FechaDeNacimiento" Type="datetime" />
+          <Property Name="EstadoCivil" Type="varchar" MaxLength="50" />
+          <Property Name="GrupoSanguineo" Type="varchar" MaxLength="50" />
+          <Property Name="ARS" Type="varchar" MaxLength="50" />
+          <Property Name="NSS" Type="varchar" MaxLength="50" />
+          <Property Name="CorreoElectronico" Type="varchar" MaxLength="50" />
+          <Property Name="Telefono" Type="varchar" MaxLength="50" />
+          <Property Name="Celular" Type="varchar" MaxLength="50" />
+          <Property Name="Direccion" Type="varchar" MaxLength="100" />
+          <Property Name="Foto" Type="image" />
+          <Property Name="TutorNombre" Type="varchar" MaxLength="100" />
+          <Property Name="TutorTelefono" Type="varchar" MaxLength="15" />
+          <Property Name="TutorCedula" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Procesos">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="IdPaciente" Type="int" />
+          <Property Name="IdDoctor" Type="int" />
+          <Property Name="IdProceso" Type="int" />
+          <Property Name="Fecha" Type="datetime" />
+          <Property Name="Proceso" Type="varchar" MaxLength="500" />
+          <Property Name="Costo" Type="float" />
+          <Property Name="Pago" Type="float" />
+          <Property Name="Pendiente" Type="float" />
+          <Property Name="NombrePaciente" Type="varchar" MaxLength="150" />
+          <Property Name="NombreDoctor" Type="varchar" MaxLength="150" />
+          <Property Name="Estatus" Type="varchar" MaxLength="150" />
+        </EntityType>
+        <EntityContainer Name="GRUDENTModelStoreContainer">
+          <EntitySet Name="Consulta" EntityType="Self.Consulta" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Paciente" EntityType="Self.Paciente" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Procesos" EntityType="Self.Procesos" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PacienteN" EntityType="Self.PacienteN" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [PacienteN].[ID] AS [ID], 
+    [PacienteN].[Documento] AS [Documento], 
+    [PacienteN].[Nombres] AS [Nombres], 
+    [PacienteN].[PrimerApellido] AS [PrimerApellido], 
+    [PacienteN].[SegundoApellido] AS [SegundoApellido], 
+    [PacienteN].[Sexo] AS [Sexo], 
+    [PacienteN].[FechaDeNacimiento] AS [FechaDeNacimiento], 
+    [PacienteN].[EstadoCivil] AS [EstadoCivil], 
+    [PacienteN].[GrupoSanguineo] AS [GrupoSanguineo], 
+    [PacienteN].[ARS] AS [ARS], 
+    [PacienteN].[NSS] AS [NSS], 
+    [PacienteN].[CorreoElectronico] AS [CorreoElectronico], 
+    [PacienteN].[Telefono] AS [Telefono], 
+    [PacienteN].[Celular] AS [Celular], 
+    [PacienteN].[Direccion] AS [Direccion], 
+    [PacienteN].[Foto] AS [Foto], 
+    [PacienteN].[TutorNombre] AS [TutorNombre], 
+    [PacienteN].[TutorTelefono] AS [TutorTelefono], 
+    [PacienteN].[TutorCedula] AS [TutorCedula]
+    FROM [dbo].[PacienteN] AS [PacienteN]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GRUDENTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Consulta">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IdDoctor" Type="Int32" />
+          <Property Name="IdPaciente" Type="Int32" />
+          <Property Name="NombrePaciente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Sexo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Fecha" Type="DateTime" Precision="3" />
+          <Property Name="NombreDoctor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Motivo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Diagnostico" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Procedimiento" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Observaciones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Indicaciones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Paciente">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+          <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Celular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Observacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="PacienteN">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="SegundoApellido" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+          <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Celular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="TutorNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="TutorTelefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="TutorCedula" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="GRUDENTEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Consulta" EntityType="Self.Consulta" />
+          <EntitySet Name="Paciente" EntityType="Self.Paciente" />
+          <EntitySet Name="PacienteN" EntityType="Self.PacienteN" />
+          <EntitySet Name="Procesos" EntityType="GRUDENTModel.Procesos" />
+        </EntityContainer>
+        <EntityType Name="Procesos">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="IdPaciente" Type="Int32" />
+          <Property Name="IdDoctor" Type="Int32" />
+          <Property Name="IdProceso" Type="Int32" />
+          <Property Name="Fecha" Type="DateTime" Precision="3" />
+          <Property Name="Proceso" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="Costo" Type="Double" />
+          <Property Name="Pago" Type="Double" />
+          <Property Name="Pendiente" Type="Double" />
+          <Property Name="NombrePaciente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="NombreDoctor" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="Estatus" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GRUDENTModelStoreContainer" CdmEntityContainer="GRUDENTEntities">
+          <EntitySetMapping Name="Consulta">
+            <EntityTypeMapping TypeName="GRUDENTModel.Consulta">
+              <MappingFragment StoreEntitySet="Consulta">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="IdDoctor" ColumnName="IdDoctor" />
+                <ScalarProperty Name="IdPaciente" ColumnName="IdPaciente" />
+                <ScalarProperty Name="NombrePaciente" ColumnName="NombrePaciente" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+                <ScalarProperty Name="NombreDoctor" ColumnName="NombreDoctor" />
+                <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+                <ScalarProperty Name="Diagnostico" ColumnName="Diagnostico" />
+                <ScalarProperty Name="Procedimiento" ColumnName="Procedimiento" />
+                <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+                <ScalarProperty Name="Indicaciones" ColumnName="Indicaciones" />
+                <ScalarProperty Name="Foto" ColumnName="Foto" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Paciente">
+            <EntityTypeMapping TypeName="GRUDENTModel.Paciente">
+              <MappingFragment StoreEntitySet="Paciente">
+                <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Documento" ColumnName="Documento" />
+                <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+                <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+                <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="FechaDeNacimiento" ColumnName="FechaDeNacimiento" />
+                <ScalarProperty Name="EstadoCivil" ColumnName="EstadoCivil" />
+                <ScalarProperty Name="GrupoSanguineo" ColumnName="GrupoSanguineo" />
+                <ScalarProperty Name="ARS" ColumnName="ARS" />
+                <ScalarProperty Name="NSS" ColumnName="NSS" />
+                <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+                <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+                <ScalarProperty Name="Celular" ColumnName="Celular" />
+                <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+                <ScalarProperty Name="Foto" ColumnName="Foto" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PacienteN">
+            <EntityTypeMapping TypeName="GRUDENTModel.PacienteN">
+              <MappingFragment StoreEntitySet="PacienteN">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Documento" ColumnName="Documento" />
+                <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+                <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+                <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="FechaDeNacimiento" ColumnName="FechaDeNacimiento" />
+                <ScalarProperty Name="EstadoCivil" ColumnName="EstadoCivil" />
+                <ScalarProperty Name="GrupoSanguineo" ColumnName="GrupoSanguineo" />
+                <ScalarProperty Name="ARS" ColumnName="ARS" />
+                <ScalarProperty Name="NSS" ColumnName="NSS" />
+                <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+                <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+                <ScalarProperty Name="Celular" ColumnName="Celular" />
+                <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+                <ScalarProperty Name="Foto" ColumnName="Foto" />
+                <ScalarProperty Name="TutorNombre" ColumnName="TutorNombre" />
+                <ScalarProperty Name="TutorTelefono" ColumnName="TutorTelefono" />
+                <ScalarProperty Name="TutorCedula" ColumnName="TutorCedula" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Procesos">
+            <EntityTypeMapping TypeName="GRUDENTModel.Procesos">
+              <MappingFragment StoreEntitySet="Procesos">
+                <ScalarProperty Name="Estatus" ColumnName="Estatus" />
+                <ScalarProperty Name="NombreDoctor" ColumnName="NombreDoctor" />
+                <ScalarProperty Name="NombrePaciente" ColumnName="NombrePaciente" />
+                <ScalarProperty Name="Pendiente" ColumnName="Pendiente" />
+                <ScalarProperty Name="Pago" ColumnName="Pago" />
+                <ScalarProperty Name="Costo" ColumnName="Costo" />
+                <ScalarProperty Name="Proceso" ColumnName="Proceso" />
+                <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+                <ScalarProperty Name="IdProceso" ColumnName="IdProceso" />
+                <ScalarProperty Name="IdDoctor" ColumnName="IdDoctor" />
+                <ScalarProperty Name="IdPaciente" ColumnName="IdPaciente" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

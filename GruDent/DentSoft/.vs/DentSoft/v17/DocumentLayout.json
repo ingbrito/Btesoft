@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\forminicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:forminicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\forminicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:forminicio\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:ucmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\ucmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\ucmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\forminicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:forminicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|c:\\users\\hensel.brito\\downloads\\sistema dental\\dentsoft update general\\grudent\\dentsoft\\formularios de registro\\ucmenuregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:formularios de registro\\ucmenuregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\forminicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25041F-2E96-4643-B46C-7C666E2F6173}|DentSoft.csproj|solutionrelative:forminicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UcMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\UcMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "UcMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\UcMenuPrincipal.cs",
+              "RelativeToolTip": "UcMenuPrincipal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:21:47.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UcMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\UcMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "Formularios de Registro\\UcMenuPrincipal.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:17:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Formularios de Registro\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:32:43.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\UcMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.cs",
+              "RelativeToolTip": "Formularios de Registro\\UcMenuPrincipal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:54:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\FrmMain.cs",
+              "RelativeToolTip": "Formularios de Registro\\FrmMain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:49:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\UcMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Formularios de Registro\\UcMenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:45:59.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormInicio\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormInicio\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:24:51.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormInicio\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FormLogin.cs",
+              "RelativeToolTip": "FormInicio\\FormLogin.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIAwwMsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:24:52.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FormInicio\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "FormInicio\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:42:11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcMenuRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuRegistro.cs",
+              "RelativeDocumentMoniker": "Formularios de Registro\\UcMenuRegistro.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\Formularios de Registro\\UcMenuRegistro.cs",
+              "RelativeToolTip": "Formularios de Registro\\UcMenuRegistro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:27:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FormInicio\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\hensel.brito\\Downloads\\Sistema Dental\\DentSoft Update General\\GruDent\\DentSoft\\FormInicio\\FrmPrincipal.cs",
+              "RelativeToolTip": "FormInicio\\FrmPrincipal.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAEwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:42:15.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

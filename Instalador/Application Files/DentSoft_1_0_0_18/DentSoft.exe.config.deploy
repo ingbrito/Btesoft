@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+  <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
+  <section name="entityFramework"
+    type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+    requirePermission="false"/>
+  </configSections>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1"/>
+  </startup>
+  <connectionStrings>
+    <add name="sqlconex" connectionString="server=localhost; User id sa;Password =Prueba01;Database=GRUDENT"/>
+    <add name="sqlconex1" connectionString="server=DESKTOP-QTJFGQB\SQLEXPRESS;User id sa;Password =Prueba01;Database=GRUDENT"/>
+    <add name="sqlconex2" connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;User id sa;Password =Prueba01;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"/>
+    <add name="GRUDENTEntities"
+      connectionString="metadata=res://*/Model.GrudentAdo.csdl|res://*/Model.GrudentAdo.ssdl|res://*/Model.GrudentAdo.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=localhost;initial catalog=GRUDENT;User id sa;Password =Prueba01;MultipleActiveResultSets=True;App=EntityFramework&quot;"
+      providerName="System.Data.EntityClient"/>
+    <add name="DentSoft.Properties.Settings.GRUDENTConnectionString"
+      connectionString="Data Source=DESKTOP-DB76LV2\SQLEXPRESS;Initial Catalog=GRUDENT;User id sa;Password =Prueba01" providerName="System.Data.SqlClient"/>
+    <add name="DentSoft.Properties.Settings.GRUDENTConnectionString1" connectionString="Data Source=localhost;Initial Catalog=GRUDENT;User id sa;Password =Prueba01"
+      providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+  <entityFramework>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.SqlConnectionFactory, EntityFramework"/>
+    <providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer"/>
+    </providers>
+  </entityFramework>
+</configuration>

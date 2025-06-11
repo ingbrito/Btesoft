@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GRUDENTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Consulta">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdDoctor" Type="Int32" />
+    <Property Name="IdPaciente" Type="Int32" />
+    <Property Name="NombrePaciente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Edad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="NombreDoctor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Motivo" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Diagnostico" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Procedimiento" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Observaciones" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Indicaciones" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Plan_Tratamiento" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="imagen_odontograma" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Diagnostico">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Doctores">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Especialidad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Citas" Relationship="GRUDENTModel.FK_Citas_Doctor" FromRole="Doctores" ToRole="Citas" />
+  </EntityType>
+  <EntityType Name="PacienteN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SegundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+    <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="TutorNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TutorTelefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="TutorCedula" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Procedimientos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Costo" Type="Double" />
+  </EntityType>
+  <EntityType Name="Procesos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdPaciente" Type="Int32" />
+    <Property Name="IdDoctor" Type="Int32" />
+    <Property Name="IdProceso" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="Proceso" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Costo" Type="Double" />
+    <Property Name="Pago" Type="Double" />
+    <Property Name="Pendiente" Type="Double" />
+    <Property Name="NombrePaciente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="NombreDoctor" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Estatus" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="GRUDENTEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Consulta" EntityType="Self.Consulta" />
+    <EntitySet Name="Diagnostico" EntityType="Self.Diagnostico" />
+    <EntitySet Name="Doctores" EntityType="Self.Doctores" />
+    <EntitySet Name="PacienteN" EntityType="Self.PacienteN" />
+    <EntitySet Name="Procedimientos" EntityType="Self.Procedimientos" />
+    <EntitySet Name="Procesos" EntityType="Self.Procesos" />
+    <EntitySet Name="Facturas" EntityType="GRUDENTModel.Facturas" />
+    <EntitySet Name="HistoricoPago" EntityType="GRUDENTModel.HistoricoPago" />
+    <EntitySet Name="Usuario" EntityType="GRUDENTModel.Usuario" />
+    <EntitySet Name="Paciente" EntityType="GRUDENTModel.Paciente" />
+    <EntitySet Name="Citas" EntityType="GRUDENTModel.Citas" />
+    <EntitySet Name="Empresa" EntityType="GRUDENTModel.Empresa" />
+    <EntitySet Name="Cotizacion" EntityType="GRUDENTModel.Cotizacion" />
+    <AssociationSet Name="FK_Citas_Doctor" Association="GRUDENTModel.FK_Citas_Doctor">
+      <End Role="Doctores" EntitySet="Doctores" />
+      <End Role="Citas" EntitySet="Citas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Citas_Paciente" Association="GRUDENTModel.FK_Citas_Paciente">
+      <End Role="Paciente" EntitySet="Paciente" />
+      <End Role="Citas" EntitySet="Citas" />
+    </AssociationSet>
+    <EntitySet Name="Permisos" EntityType="GRUDENTModel.Permisos" />
+    <EntitySet Name="Roles" EntityType="GRUDENTModel.Roles" />
+    <EntitySet Name="RolesPermisos" EntityType="GRUDENTModel.RolesPermisos" />
+    <AssociationSet Name="FK_RolesPermisos_Permisos" Association="GRUDENTModel.FK_RolesPermisos_Permisos">
+      <End Role="Permisos" EntitySet="Permisos" />
+      <End Role="RolesPermisos" EntitySet="RolesPermisos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RolesPermisos_Roles" Association="GRUDENTModel.FK_RolesPermisos_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="RolesPermisos" EntitySet="RolesPermisos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Roles" Association="GRUDENTModel.FK_Usuario_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="PermisosRol" Association="GRUDENTModel.PermisosRol">
+      <End Role="Permisos" EntitySet="Permisos" />
+      <End Role="Roles" EntitySet="Roles" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Facturas">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdCliente" Type="Int32" />
+    <Property Name="NombreCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EdadCliente" Type="Int32" />
+    <Property Name="SexoCliente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="NombreDoctor" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="EspecialidadDoctor" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Procesos" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Costo" Type="Double" />
+    <Property Name="Descuento" Type="Double" />
+    <Property Name="Pago" Type="Double" />
+    <Property Name="Total" Type="Double" />
+    <Property Name="Estatus" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="HistoricoPago">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdFactura" Type="Int32" />
+    <Property Name="Deuda" Type="Double" />
+    <Property Name="Abono" Type="Double" />
+    <Property Name="Resto" Type="Double" />
+    <Property Name="Fecha" Type="DateTime" Precision="3" />
+    <Property Name="Comentario" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LoginName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Apellido" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="IdRol" Type="Int32" />
+    <NavigationProperty Name="Roles" Relationship="GRUDENTModel.FK_Usuario_Roles" FromRole="Usuario" ToRole="Roles" />
+  </EntityType>
+  <EntityType Name="Paciente">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Documento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PrimerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SegundoApellido" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="FechaDeNacimiento" Type="DateTime" Precision="3" />
+    <Property Name="EstadoCivil" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GrupoSanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ARS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NSS" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Celular" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Citas" Relationship="GRUDENTModel.FK_Citas_Paciente" FromRole="Paciente" ToRole="Citas" />
+  </EntityType>
+  <EntityType Name="Citas">
+    <Key>
+      <PropertyRef Name="IdCita" />
+    </Key>
+    <Property Name="IdCita" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdPaciente" Type="Int32" Nullable="false" />
+    <Property Name="IdDoctor" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Hora" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Observacion" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="EstadoCita" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Doctores" Relationship="GRUDENTModel.FK_Citas_Doctor" FromRole="Citas" ToRole="Doctores" />
+    <NavigationProperty Name="Paciente" Relationship="GRUDENTModel.FK_Citas_Paciente" FromRole="Citas" ToRole="Paciente" />
+  </EntityType>
+  <EntityType Name="Empresa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="direccion" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="telefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="correo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="rnc" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Cotizacion">
+    <Key>
+      <PropertyRef Name="numeroCotizacion" />
+    </Key>
+    <Property Name="ID" Type="Int32" />
+    <Property Name="numeroCotizacion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombrePaciente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="correo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha" Type="DateTime" Precision="0" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cantidad" Type="Int32" />
+    <Property Name="precio" Type="Double" />
+    <Property Name="subtotal" Type="Double" />
+    <Property Name="descuento" Type="Int32" />
+    <Property Name="total" Type="Double" />
+  </EntityType>
+  <Association Name="FK_Citas_Doctor">
+    <End Type="GRUDENTModel.Doctores" Role="Doctores" Multiplicity="1" />
+    <End Type="GRUDENTModel.Citas" Role="Citas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctores">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Citas">
+        <PropertyRef Name="IdDoctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Citas_Paciente">
+    <End Type="GRUDENTModel.Paciente" Role="Paciente" Multiplicity="1" />
+    <End Type="GRUDENTModel.Citas" Role="Citas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Citas">
+        <PropertyRef Name="IdPaciente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Permisos">
+    <Key>
+      <PropertyRef Name="IdPermiso" />
+    </Key>
+    <Property Name="IdPermiso" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreFuncion" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="RolesPermisos" Relationship="GRUDENTModel.FK_RolesPermisos_Permisos" FromRole="Permisos" ToRole="RolesPermisos" />
+    <NavigationProperty Name="Roles" Relationship="GRUDENTModel.PermisosRol" FromRole="Permisos" ToRole="Roles" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="IdRol" />
+    </Key>
+    <Property Name="IdRol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRol" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="RolesPermisos" Relationship="GRUDENTModel.FK_RolesPermisos_Roles" FromRole="Roles" ToRole="RolesPermisos" />
+    <NavigationProperty Name="Usuario" Relationship="GRUDENTModel.FK_Usuario_Roles" FromRole="Roles" ToRole="Usuario" />
+    <NavigationProperty Name="Permisos" Relationship="GRUDENTModel.PermisosRol" FromRole="Roles" ToRole="Permisos" />
+  </EntityType>
+  <EntityType Name="RolesPermisos">
+    <Key>
+      <PropertyRef Name="Permisos_IdPermiso" />
+      <PropertyRef Name="Roles_IdRol" />
+    </Key>
+    <Property Name="Permisos_IdPermiso" Type="Int32" Nullable="false" />
+    <Property Name="Roles_IdRol" Type="Int32" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" />
+    <NavigationProperty Name="Permisos" Relationship="GRUDENTModel.FK_RolesPermisos_Permisos" FromRole="RolesPermisos" ToRole="Permisos" />
+    <NavigationProperty Name="Roles" Relationship="GRUDENTModel.FK_RolesPermisos_Roles" FromRole="RolesPermisos" ToRole="Roles" />
+  </EntityType>
+  <Association Name="FK_RolesPermisos_Permisos">
+    <End Type="GRUDENTModel.Permisos" Role="Permisos" Multiplicity="1" />
+    <End Type="GRUDENTModel.RolesPermisos" Role="RolesPermisos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Permisos">
+        <PropertyRef Name="IdPermiso" />
+      </Principal>
+      <Dependent Role="RolesPermisos">
+        <PropertyRef Name="Permisos_IdPermiso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RolesPermisos_Roles">
+    <End Type="GRUDENTModel.Roles" Role="Roles" Multiplicity="1" />
+    <End Type="GRUDENTModel.RolesPermisos" Role="RolesPermisos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="IdRol" />
+      </Principal>
+      <Dependent Role="RolesPermisos">
+        <PropertyRef Name="Roles_IdRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Roles">
+    <End Type="GRUDENTModel.Roles" Role="Roles" Multiplicity="0..1" />
+    <End Type="GRUDENTModel.Usuario" Role="Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="IdRol" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="IdRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PermisosRol">
+    <End Type="GRUDENTModel.Permisos" Role="Permisos" Multiplicity="*" />
+    <End Type="GRUDENTModel.Roles" Role="Roles" Multiplicity="*" />
+  </Association>
+</Schema>

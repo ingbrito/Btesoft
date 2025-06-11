@@ -1,0 +1,140 @@
+C:\Users\JulioAngel\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Hensel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Hensel\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\julio\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\julio\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\julio\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\julio\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\julio\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\pc 1\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\brito\Dropbox\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Sistema Dentsoft\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\CapaEntidad\obj\Debug\CapaEntidad.pdb

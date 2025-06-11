@@ -1,0 +1,1424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E25041F-2E96-4643-B46C-7C666E2F6173}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DentSoft</RootNamespace>
+    <AssemblyName>DentSoft</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\brito\Desktop\DentSoft Update General\Instalador\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>es-DO</TargetCulture>
+    <ProductName>DENTSOFT</ProductName>
+    <PublisherName>MEBRI SRL</PublisherName>
+    <ApplicationRevision>23</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tooths.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>68BC1019FC2B51AD61609FEDB9AAF48AC721380B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DentSoft_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v24.2, Version=24.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v24.2, Version=24.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v24.2, Version=24.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v24.2.Core, Version=24.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v24.2, Version=24.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Types, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.Unofficial.12.0.2000.8\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormInicio\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInicio\FrmMainContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio\FrmMainContent.Designer.cs">
+      <DependentUpon>FrmMainContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInicio\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Citas\FrmRegistroCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Citas\FrmRegistroCitas.Designer.cs">
+      <DependentUpon>FrmRegistroCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario Registro Licencia\FormLicencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario Registro Licencia\FormLicencia.Designer.cs">
+      <DependentUpon>FormLicencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\DetalleConsultaH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\DetalleConsultaH.Designer.cs">
+      <DependentUpon>DetalleConsultaH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\FrmSeleccionarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\FrmSeleccionarPaciente.Designer.cs">
+      <DependentUpon>FrmSeleccionarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantConsulta.Designer.cs">
+      <DependentUpon>FormMantConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Cotization.cs" />
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FsCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FsCotizaciones.Designer.cs">
+      <DependentUpon>FsCotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\HistoricoPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\HistoricoPago.Designer.cs">
+      <DependentUpon>HistoricoPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmListadoC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmListadoC.Designer.cs">
+      <DependentUpon>FrmListadoC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMenuConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMenuConsulta.Designer.cs">
+      <DependentUpon>FrmMenuConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMenuRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\FrmMenuRegistro.Designer.cs">
+      <DependentUpon>FrmMenuRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroEmpresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroEmpresas.Designer.cs">
+      <DependentUpon>RegistroEmpresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcAdministracion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcAdministracion.Designer.cs">
+      <DependentUpon>UcAdministracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcAyuda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcAyuda.Designer.cs">
+      <DependentUpon>UcAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcConsultas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcConsultas.Designer.cs">
+      <DependentUpon>UcConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcEmpresa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcEmpresa.Designer.cs">
+      <DependentUpon>UcEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcFacturacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcFacturacion.Designer.cs">
+      <DependentUpon>UcFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcInicio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcInicio.Designer.cs">
+      <DependentUpon>UcInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcMenuPrincipal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcMenuPrincipal.Designer.cs">
+      <DependentUpon>UcMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcMenuRegistro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcMenuRegistro.Designer.cs">
+      <DependentUpon>UcMenuRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegCitas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegCitas.Designer.cs">
+      <DependentUpon>UcRegCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegDiagnosticos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegDiagnosticos.Designer.cs">
+      <DependentUpon>UcRegDiagnosticos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegDoctores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegDoctores.Designer.cs">
+      <DependentUpon>UcRegDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegistros.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegistros.Designer.cs">
+      <DependentUpon>UcRegistros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegProcedimientos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcRegProcedimientos.Designer.cs">
+      <DependentUpon>UcRegProcedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcReportes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\UcReportes.Designer.cs">
+      <DependentUpon>UcReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\OdontogramaDrawer.cs" />
+    <Compile Include="Model\Citas.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Cotizacion.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Empresa.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Permisos.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Roles.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\RolesPermisos.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\CotizacionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CotizacionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DetailsFactDataSet.cs">
+      <DependentUpon>DetailsFactDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\EmpresaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmpresaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormCotizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormCotizacion.Designer.cs">
+      <DependentUpon>FormCotizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ProcessDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcessDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DetailFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\DetailFactura.Designer.cs">
+      <DependentUpon>DetailFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DetailsFactDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DetailsFactDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FacturaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FacturaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormAyuda\FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAyuda\FormHelp.Designer.cs">
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInicio\FPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio\FPrincipal.Designer.cs">
+      <DependentUpon>FPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\DetalleConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\DetalleConsulta.Designer.cs">
+      <DependentUpon>DetalleConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantNinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantNinos.Designer.cs">
+      <DependentUpon>FormMantNinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\Historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\Historico.Designer.cs">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoDoctores.Designer.cs">
+      <DependentUpon>ListadoDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoPacientesNinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoPacientesNinos.Designer.cs">
+      <DependentUpon>ListadoPacientesNinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Abono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Abono.Designer.cs">
+      <DependentUpon>Abono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Cotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Cotizaciones.Designer.cs">
+      <DependentUpon>Cotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\CrearFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\CrearFactura.Designer.cs">
+      <DependentUpon>CrearFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Facturas.Designer.cs">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\DetalleFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\DetalleFactura.Designer.cs">
+      <DependentUpon>DetalleFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FSDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FSDoctores.Designer.cs">
+      <DependentUpon>FSDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FSProcedimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Facturacion\Formularios de seleccion\FSProcedimientos.Designer.cs">
+      <DependentUpon>FSProcedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\NinosCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\NinosCotizaciones.Designer.cs">
+      <DependentUpon>NinosCotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\PacienteCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\PacienteCotizaciones.Designer.cs">
+      <DependentUpon>PacienteCotizaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroPacientesNinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroPacientesNinos.Designer.cs">
+      <DependentUpon>RegistroPacientesNinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroUsuarios.Designer.cs">
+      <DependentUpon>RegistroUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Diagnosticos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Diagnosticos.Designer.cs">
+      <DependentUpon>Diagnosticos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\Consulta Medica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\Consulta Medica.Designer.cs">
+      <DependentUpon>Consulta Medica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoConsulta.Designer.cs">
+      <DependentUpon>ListadoConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Doctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Doctores.Designer.cs">
+      <DependentUpon>Doctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoDiagnostico.Designer.cs">
+      <DependentUpon>ListadoDiagnostico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Ninos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Ninos.Designer.cs">
+      <DependentUpon>Ninos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Pacientes.Designer.cs">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Procedimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de seleccion\Procedimientos.Designer.cs">
+      <DependentUpon>Procedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\UltimaConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\UltimaConsulta.Designer.cs">
+      <DependentUpon>UltimaConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantDiagnostico.Designer.cs">
+      <DependentUpon>FormMantDiagnostico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantDoctores.Designer.cs">
+      <DependentUpon>FormMantDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantProcedimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantProcedimientos.Designer.cs">
+      <DependentUpon>FormMantProcedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroDiagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroDiagnostico.Designer.cs">
+      <DependentUpon>RegistroDiagnostico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\ListadoPacientes.Designer.cs">
+      <DependentUpon>ListadoPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Consulta\Listado Procedimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Consulta\Listado Procedimientos.Designer.cs">
+      <DependentUpon>Listado Procedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de edicion\FormMantPacientes.Designer.cs">
+      <DependentUpon>FormMantPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroDoctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroDoctores.Designer.cs">
+      <DependentUpon>RegistroDoctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroProcedimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroProcedimientos.Designer.cs">
+      <DependentUpon>RegistroProcedimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Consulta.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Diagnostico.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Doctores.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Facturas.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\GrudentAdo.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GrudentAdo.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\GrudentAdo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\GrudentAdo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GrudentAdo.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Model\HistoricoPago.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Paciente.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\PacienteN.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Procedimientos.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Procesos.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Usuario.cs">
+      <DependentUpon>GrudentAdo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formularios de Registro\RegistroPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios de Registro\RegistroPacientes.Designer.cs">
+      <DependentUpon>RegistroPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ChildrensDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ChildrensDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ChildrensReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ChildrensReport.Designer.cs">
+      <DependentUpon>ChildrensReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DiagnosticDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DiagnosticDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DiagnosticReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\DiagnosticReport.Designer.cs">
+      <DependentUpon>DiagnosticReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DoctorDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DoctorDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DoctorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\DoctorReport.Designer.cs">
+      <DependentUpon>DoctorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FacturaReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FacturaReport.Designer.cs">
+      <DependentUpon>FacturaReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\PatientDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PatientDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\PatientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\PatientReport.Designer.cs">
+      <DependentUpon>PatientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ProcessReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ProcessReport.Designer.cs">
+      <DependentUpon>ProcessReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\PermisosHelper.cs" />
+    <Compile Include="UcMenuPrincipal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcMenuPrincipal.Designer.cs">
+      <DependentUpon>UcMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAyuda\FormHelp.resx">
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio\FPrincipal.resx">
+      <DependentUpon>FPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio\FrmMainContent.resx">
+      <DependentUpon>FrmMainContent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Citas\FrmRegistroCitas.resx">
+      <DependentUpon>FrmRegistroCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario Registro Licencia\FormLicencia.resx">
+      <DependentUpon>FormLicencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\DetalleConsultaH.resx">
+      <DependentUpon>DetalleConsultaH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\DetalleConsulta.resx">
+      <DependentUpon>DetalleConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\FrmSeleccionarPaciente.resx">
+      <DependentUpon>FrmSeleccionarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantConsulta.resx">
+      <DependentUpon>FormMantConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantNinos.resx">
+      <DependentUpon>FormMantNinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\Historico.resx">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\ListadoDoctores.resx">
+      <DependentUpon>ListadoDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\ListadoPacientesNinos.resx">
+      <DependentUpon>ListadoPacientesNinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Abono.resx">
+      <DependentUpon>Abono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Cotizaciones.resx">
+      <DependentUpon>Cotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\CrearFactura.resx">
+      <DependentUpon>CrearFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Facturas.resx">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Formularios de seleccion\DetalleFactura.resx">
+      <DependentUpon>DetalleFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Formularios de seleccion\FSDoctores.resx">
+      <DependentUpon>FSDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Formularios de seleccion\FSProcedimientos.resx">
+      <DependentUpon>FSProcedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\Formularios de seleccion\FsCotizaciones.resx">
+      <DependentUpon>FsCotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Facturacion\HistoricoPago.resx">
+      <DependentUpon>HistoricoPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\FrmListadoC.resx">
+      <DependentUpon>FrmListadoC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\FrmMenuConsulta.resx">
+      <DependentUpon>FrmMenuConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\FrmMenuRegistro.resx">
+      <DependentUpon>FrmMenuRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroEmpresas.resx">
+      <DependentUpon>RegistroEmpresas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcAdministracion.resx">
+      <DependentUpon>UcAdministracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcAyuda.resx">
+      <DependentUpon>UcAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcConsultas.resx">
+      <DependentUpon>UcConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcEmpresa.resx">
+      <DependentUpon>UcEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcFacturacion.resx">
+      <DependentUpon>UcFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcInicio.resx">
+      <DependentUpon>UcInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcMenuPrincipal.resx">
+      <DependentUpon>UcMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcMenuRegistro.resx">
+      <DependentUpon>UcMenuRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcRegCitas.resx">
+      <DependentUpon>UcRegCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcRegDiagnosticos.resx">
+      <DependentUpon>UcRegDiagnosticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcRegDoctores.resx">
+      <DependentUpon>UcRegDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcRegistros.resx">
+      <DependentUpon>UcRegistros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcRegProcedimientos.resx">
+      <DependentUpon>UcRegProcedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\UcReportes.resx">
+      <DependentUpon>UcReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\NinosCotizaciones.resx">
+      <DependentUpon>NinosCotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\PacienteCotizaciones.resx">
+      <DependentUpon>PacienteCotizaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroPacientesNinos.resx">
+      <DependentUpon>RegistroPacientesNinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroUsuarios.resx">
+      <DependentUpon>RegistroUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\Diagnosticos.resx">
+      <DependentUpon>Diagnosticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\Consulta Medica.resx">
+      <DependentUpon>Consulta Medica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\ListadoConsulta.resx">
+      <DependentUpon>ListadoConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\Doctores.resx">
+      <DependentUpon>Doctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\ListadoDiagnostico.resx">
+      <DependentUpon>ListadoDiagnostico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\Ninos.resx">
+      <DependentUpon>Ninos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\Pacientes.resx">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de seleccion\Procedimientos.resx">
+      <DependentUpon>Procedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\UltimaConsulta.resx">
+      <DependentUpon>UltimaConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantDiagnostico.resx">
+      <DependentUpon>FormMantDiagnostico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantDoctores.resx">
+      <DependentUpon>FormMantDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantProcedimientos.resx">
+      <DependentUpon>FormMantProcedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroDiagnostico.resx">
+      <DependentUpon>RegistroDiagnostico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\ListadoPacientes.resx">
+      <DependentUpon>ListadoPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Consulta\Listado Procedimientos.resx">
+      <DependentUpon>Listado Procedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de edicion\FormMantPacientes.resx">
+      <DependentUpon>FormMantPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroDoctores.resx">
+      <DependentUpon>RegistroDoctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios de Registro\RegistroProcedimientos.resx">
+      <DependentUpon>RegistroProcedimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Formularios de Registro\RegistroPacientes.resx">
+      <DependentUpon>RegistroPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ChildrensReport.rdlc" />
+    <EmbeddedResource Include="Reportes\ChildrensReport.resx">
+      <DependentUpon>ChildrensReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CotizacionesReport.rdlc" />
+    <EmbeddedResource Include="Reportes\DetailFactura.resx">
+      <DependentUpon>DetailFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\DetalleFacturaReport.rdlc" />
+    <EmbeddedResource Include="Reportes\DiagnosticReport.rdlc" />
+    <EmbeddedResource Include="Reportes\DiagnosticReport.resx">
+      <DependentUpon>DiagnosticReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\DoctoReport.rdlc" />
+    <EmbeddedResource Include="Reportes\DoctorReport.resx">
+      <DependentUpon>DoctorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FacturaReport.resx">
+      <DependentUpon>FacturaReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormCotizacion.resx">
+      <DependentUpon>FormCotizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\PatientReport.rdlc" />
+    <EmbeddedResource Include="Reportes\PatientReport.resx">
+      <DependentUpon>PatientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Phistorial.rdlc" />
+    <EmbeddedResource Include="Reportes\ProcessReport.rdlc" />
+    <EmbeddedResource Include="Reportes\ProcessReport.resx">
+      <DependentUpon>ProcessReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FacturaReport.rdlc" />
+    <EmbeddedResource Include="UcMenuPrincipal.resx">
+      <DependentUpon>UcMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model\GrudentAdo.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>GrudentAdo.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DentSoft_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\CapaEntidad.E_Cotizacion.datasource" />
+    <None Include="Properties\DataSources\DentSoft.Formularios_de_Facturacion.Cotizaciones.datasource" />
+    <None Include="Properties\DataSources\DentSoft.Formularios_de_Facturacion.Cotization.datasource" />
+    <None Include="Properties\DataSources\DentSoft.Formularios_de_Facturacion.CrearFactura.datasource" />
+    <None Include="Properties\DataSources\DentSoft.Formularios_de_Facturacion.HistoricoPago.datasource" />
+    <None Include="Reportes\CotizacionDataSet.xsc">
+      <DependentUpon>CotizacionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\CotizacionDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CotizacionDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\CotizacionDataSet.xss">
+      <DependentUpon>CotizacionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\EmpresaDataSet.xsc">
+      <DependentUpon>EmpresaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\EmpresaDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EmpresaDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\EmpresaDataSet.xss">
+      <DependentUpon>EmpresaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ProcessDataSet.xsc">
+      <DependentUpon>ProcessDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ProcessDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProcessDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes\ProcessDataSet.xss">
+      <DependentUpon>ProcessDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DetailsFactDataSet.xsc">
+      <DependentUpon>DetailsFactDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DetailsFactDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DetailsFactDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DetailsFactDataSet.xss">
+      <DependentUpon>DetailsFactDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\FacturaDataSet.xsc">
+      <DependentUpon>FacturaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\FacturaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FacturaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes\FacturaDataSet.xss">
+      <DependentUpon>FacturaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Model\GrudentAdo.edmx.diagram">
+      <DependentUpon>GrudentAdo.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlAzureExecutionStrategy.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlFunctions.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlProviderServices.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlServerMigrationSqlGenerator.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlSpatialFunctions.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.SqlSpatialServices.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.Utilities.TaskExtensions+CultureAwaiter.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.Utilities.TaskExtensions+CultureAwaiter`1.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServer.Utilities.TaskExtensions.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\ChildrensDataSet.xsc">
+      <DependentUpon>ChildrensDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ChildrensDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ChildrensDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\ChildrensDataSet.xss">
+      <DependentUpon>ChildrensDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DiagnosticDataSet.xsc">
+      <DependentUpon>DiagnosticDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DiagnosticDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DiagnosticDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DiagnosticDataSet.xss">
+      <DependentUpon>DiagnosticDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DoctorDataSet.xsc">
+      <DependentUpon>DoctorDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DoctorDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DoctorDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DoctorDataSet.xss">
+      <DependentUpon>DoctorDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\PatientDataSet.xsc">
+      <DependentUpon>PatientDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\PatientDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PatientDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\PatientDataSet.xss">
+      <DependentUpon>PatientDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\iconfinder_package_games_rpg_24231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaData\CapaData.csproj">
+      <Project>{7b7cf518-df62-4b76-9365-3e9945f607e1}</Project>
+      <Name>CapaData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{610db3e4-a008-48c1-837d-b2be38081ccf}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{a1235b14-328c-4c16-a07a-8954c4a0f5b9}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_website_-_pencil_3440848.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_f-cross_256_282471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_f-cross_256_282471.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_f-cross_256_282471 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_f-cross_256_282471 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_website_-_pencil_3440848 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historial-dental.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historial-medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hombre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mejora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\votante.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hombre %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jefe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jefe %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busqueda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floppy-disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Elegir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_teeth_4900432 %281%29.png" />
+    <None Include="Resources\dental-care.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DentSoft.ico" />
+    <Content Include="Model\GrudentAdo.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GrudentAdo.edmx</DependentUpon>
+      <LastGenOutput>GrudentAdo.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model\GrudentAdo.edmx.sql" />
+    <Content Include="Model\GrudentAdo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GrudentAdo.edmx</DependentUpon>
+      <LastGenOutput>GrudentAdo.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\close.png" />
+    <None Include="Resources\tooths.ico" />
+    <None Include="Resources\ds1.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\Update.png" />
+    <None Include="Resources\reload.png" />
+    <None Include="Resources\Cancl.png" />
+    <None Include="Resources\Cancls.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\correct.png" />
+    <None Include="Resources\Canc.png" />
+    <None Include="Resources\clear.png" />
+    <None Include="Resources\jefe1.png" />
+    <None Include="Resources\children1.png" />
+    <None Include="Resources\child.png" />
+    <None Include="Resources\Dct.png" />
+    <None Include="Resources\Procss.png" />
+    <None Include="Resources\ReccDent.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\home_64px.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\reports.png" />
+    <None Include="Resources\consultas.png" />
+    <None Include="Resources\Facturas.png" />
+    <None Include="Resources\build.png" />
+    <None Include="Resources\cita dental.png" />
+    <None Include="Resources\gear.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\Muela.png" />
+    <None Include="Resources\checking.png" />
+    <Content Include="Resources\Odontograma.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="tooth.ico" />
+    <Content Include="tooths.ico" />
+    <None Include="Resources\reportes.png" />
+    <None Include="Resources\medicalreport.png" />
+    <None Include="Resources\building.png" />
+    <None Include="Resources\us.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\door.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\logo21.png" />
+    <None Include="Resources\iconfinder_change_password_63985.png" />
+    <None Include="Resources\clear %281%294.png" />
+    <None Include="Resources\Grudent.png" />
+    <None Include="Resources\icono logo grudent.png" />
+    <None Include="Resources\content.png" />
+    <None Include="Resources\Fcja.png" />
+    <None Include="Resources\cash.png" />
+    <None Include="Resources\upload.png" />
+    <None Include="Resources\iconfinder_Finance_saving_1889200.png" />
+    <None Include="Resources\iconfinder_Money_3387302 %281%29.png" />
+    <None Include="Resources\iconfinder_Money_3387302.png" />
+    <None Include="Resources\dental-record %281%29.png" />
+    <None Include="Resources\dental-record.png" />
+    <None Include="Resources\tooth %283%29.png" />
+    <None Include="Resources\tooth %282%29.png" />
+    <None Include="Resources\clear %281%293.png" />
+    <None Include="Resources\clear %281%292.png" />
+    <None Include="Resources\clear %281%291.png" />
+    <None Include="Resources\clear %281%29.png" />
+    <None Include="Resources\ticket.png" />
+    <None Include="Resources\Factura.png" />
+    <None Include="Resources\children.png" />
+    <None Include="Resources\GdLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.12.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Report Viewer 2014 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="EntityFramework">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="EntityFramework.SqlServer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="es\Microsoft.ReportViewer.WinForms.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.WinForms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.SqlServer.Types">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Model\GrudentAdo.Context.tt">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Model\GrudentAdo.tt">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

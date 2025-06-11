@@ -1,0 +1,1439 @@
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.exe
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.exe
+c:\users\hensel\documents\visual studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.Form1.resources
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Downloads\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.Consulta.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.Form1.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Home.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientes.resources
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.EditarPaciente.resources
+C:\Users\Hensel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientes.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimientos.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Dropbox\GruDentV1.0\grudent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\Hensel\Documents\Visual Studio 2015\Projects\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Dropbox\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\GrudentProyecto\Copia PROYECTOS DROPBOX\SystemDent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Documents\Visual Studio 2015\Projects\Proyecto Grudent\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.BuscarDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.PacienteConsulta.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.INICIO.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Login.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\JulioAngel\Dropbox\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\DentSoft\Proyecto DentSoft\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.VerFicha.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.VerFicha.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.HistoriaClinica.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Desktop\CopiaLocal\Ultima actualizacion\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\JulioAngel\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julio\Dropbox\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.FormFactura.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.VerFicha.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.V.Pruebas.resources
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\CopiaLocal\copia2\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.FormFactura.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.VerFicha.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\DentSoft.V.Pruebas.resources
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\kaonex\Documents\Visual Studio 2015\Projects\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FormLogo.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormPrincipal.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.VerFicha.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.P2.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.V.Pruebas.resources
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.Login.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\julio\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojAssemblyReference.cache
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.cache
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.CoreCompileInputs.cache
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.CopyComplete
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.Cache
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\pc 1\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\kaonex\Documents\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\kaonex\Documents\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\brito\Desktop\Sistema Dental\GruDent\DentSoft\obj\Debug\DentSoft.Formulario_Registro_Licencia.FormLicencia.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\brito\Dropbox\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csprojAssemblyReference.cache
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formulario_Registro_Licencia.FormLicencia.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\brito\Dropbox\GruDent\DentSoft\obj\Debug\DentSoft.csproj.CopyComplete
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.csprojAssemblyReference.cache
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formulario_Registro_Licencia.FormLicencia.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.cache
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\RdlCompile.cache
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\RdlCompile.compiled
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.csproj.CopyComplete
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\brito\Desktop\Update DS\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.csproj.AssemblyReference.cache
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.FormAyuda.FormHelp.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.FormLogin.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.FPrincipal.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FrmMainContent.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.FormInicio.FrmPrincipal.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formulario_de_Citas.FrmRegistroCitas.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formulario_Registro_Licencia.FormLicencia.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsultaH.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.DetalleConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FrmSeleccionarPaciente.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantNinos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Historico.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacientesNinos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.Abono.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Cotizaciones.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.CrearFactura.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.FListadoFactura.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.Formularios_de_seleccion.DetalleFactura.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSProcedimientos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FSCotizaciones.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Facturacion.HistoricoPago.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.FrmListadoC.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.FrmMenuConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.FrmMenuRegistro.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroEmpresas.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.NinosCotizaciones.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.PacienteCotizaciones.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroPacientesNinos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroUsuarios.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostic.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.FichaConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListaDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoDiagnostico.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_seleccion.ListadoNinosConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPacienteConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Procedimiento.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.UltimaConsulta.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDiagnostico.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantProcedimientos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.Diagnostico.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoPaciente.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Consulta.ListadoProcedimientos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_edicion.FormMantPacientes.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.RegistroProcedimientos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Properties.Resources.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.RegistroPacientes.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ChildrensReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DetailFactura.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DiagnosticReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.DoctorReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FacturaReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.FormCotizacion.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.PatientReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Reportes.ProcessReport.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.csproj.GenerateResource.cache
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.csproj.CoreCompileInputs.cache
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.exe
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\Resources\Odontograma.png
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DentSoft.exe.config
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DentSoft.exe.manifest
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DentSoft.application
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DentSoft.exe
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DentSoft.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaData.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaEntidad.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaNegocio.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\EntityFramework.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaData.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaEntidad.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\CapaNegocio.pdb
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\EntityFramework.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.exe.manifest
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.application
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.csproj.Up2Date
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.FrmMain.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcAdministracion.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcAyuda.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcConsultas.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcEmpresa.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcFacturacion.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcMenuPrincipal.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcMenuRegistro.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcRegCitas.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcRegDiagnosticos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcRegDoctores.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcRegistros.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcRegProcedimientos.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcReportes.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.UcMenuPrincipal.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.Formularios_de_Registro.UcInicio.resources
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\hensel.brito\Downloads\Sistema Dental\DentSoft Update General\GruDent\DentSoft\obj\Debug\DentSoft.exe.config

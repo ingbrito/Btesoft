@@ -1,0 +1,5 @@
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaEntidad\obj\Release\CapaEntidad.pdb

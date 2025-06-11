@@ -1,0 +1,8 @@
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\bin\Release\CapaData.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\bin\Release\CapaData.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\bin\Release\CapaEntidad.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\bin\Release\CapaEntidad.pdb
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\obj\Release\CapaData.csprojResolveAssemblyReference.cache
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\obj\Release\CapaData.dll
+C:\Users\brito\Desktop\Instalador DentSoft\GruDent\CapaData\obj\Release\CapaData.pdb
